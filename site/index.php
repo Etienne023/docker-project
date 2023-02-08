@@ -1,6 +1,10 @@
 <?php 
 
-$bonusGetallen = [5, 16, 19, 32, 56, 99];
-$mijnGegevens = ["Bart", 78, TRUE, 3.4];
+$abcGetallen = [["a","b","c","d"], [24,56,78,90]];
 
-$meerVoudigeArray = [[1, 2, 3], [4, 5, 6]];
+echo $abcGetallen [0][0]; 
+echo $abcGetallen [1][1];
+
+echo $abcGetallen [0][2];
+echo $abcGetallen [1][3];
+
