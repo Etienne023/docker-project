@@ -1,17 +1,6 @@
 <?php 
 
-$eenAantalGetallen = [12,66,87,3000];
-echo $eenAantalGetallen[2];
-echo $eenAantalGetallen[2];
+$bonusGetallen = [5, 16, 19, 32, 56, 99];
+$mijnGegevens = ["Bart", 78, TRUE, 3.4];
 
-
-$eenWillekeurigLijstje = [
-
-    0 => "etienne",
-    1 => "van Bergeijk",
-    2 => 17
-
-];
-
-
-
+$meerVoudigeArray = [[1, 2, 3], [4, 5, 6]];
