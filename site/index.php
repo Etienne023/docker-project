@@ -1,18 +1,6 @@
 <?php 
 
-$nummer = -12;
-
-if($nummer > 0){
-
-    echo "je getal is positief";
-}
-
-if($nummer == 0){
-    echo "je nummer is 0";
-}
-
-else{
-    echo "je getal is negatief";
-}
-
+$eenAantalGetallen = [12,66,87,3000];
+echo $eenAantalGetallen[2];
+echo $eenAantalGetallen[2];
 
