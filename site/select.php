@@ -21,7 +21,7 @@
                 <a href="show.php?waarde1=TweeHonderd&waarde2=drie">Show met 2 waardes</a>
             </li>
             <li>
-                <a href="show.php?waarde1=snoop%20Dog7waarde2=Dr%20Dre">snoop dog en Dr dre</a>
+                <a href="show.php?waarde1=snoop%20Dog&waarde2=Dr%20Dre">snoop dog en Dr dre</a>
             </li>
         </ul>
     </nav>
